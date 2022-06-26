@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #182a34;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.App h1 {
+    font-size: 3.5rem;
+}
+
+.App .icon {
+    width: 200px;
+    height: 240px;
+    margin-bottom: 1.25rem;
+}
